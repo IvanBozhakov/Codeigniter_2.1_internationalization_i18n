@@ -1,3 +1,6 @@
+
+Configuration
+
 // URI like '/en/about' -> use controller 'about'
 $route['^(en|de|fr|nl)/(.+)$'] = "$2";
 
